@@ -1,3 +1,6 @@
+8eb432d Tidy .gitignore
+3670bed Add hello_git.py
+6d6c89d Add git history
 1ff69bd Personalize hello message
 24b555f Update README with my name and date
 7bcb689 Add GitHub Classroom autograding configuration
