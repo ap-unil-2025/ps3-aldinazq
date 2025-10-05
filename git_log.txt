@@ -1,3 +1,5 @@
+7852944 Restore personalized hello message
+37ece9b Update git history
 8eb432d Tidy .gitignore
 3670bed Add hello_git.py
 6d6c89d Add git history
